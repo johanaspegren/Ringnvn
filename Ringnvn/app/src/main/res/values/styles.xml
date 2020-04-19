@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#e30614</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionOverflowButtonStyle">@style/OverFlowIcon</item>
+    </style>
+
+    <style
+        name="OverFlowIcon"
+        parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/jazz</item>
+    </style>
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "778313810581",
+    "firebase_url": "https://ringnvn.firebaseio.com",
+    "project_id": "ringnvn",
+    "storage_bucket": "ringnvn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778313810581:android:640b901fc874d69ccf919c",
+        "android_client_info": {
+          "package_name": "com.aspegrenide.ringnvn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778313810581-4dddide538b7tofleevu326ilr6d0vf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6hdVBAzxGzjAkwUOEtV3nQiUGaWVHFmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778313810581-4dddide538b7tofleevu326ilr6d0vf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778313810581:android:43cc6ac3b0667c81cf919c",
+        "android_client_info": {
+          "package_name": "com.aspegrenide.simpleexpandingrecycleriew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778313810581-4dddide538b7tofleevu326ilr6d0vf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6hdVBAzxGzjAkwUOEtV3nQiUGaWVHFmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778313810581-4dddide538b7tofleevu326ilr6d0vf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
